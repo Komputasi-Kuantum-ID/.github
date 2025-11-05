@@ -33,6 +33,11 @@ Belum formal, belum ada badan hukum — tapi semangatnya real.
 
 ---
 
+## 📅 Event Yang Ada
+Buka list event [di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
+
+---
+
 ## 💬 Cara Bergabung
 
 Komunitas ini **berbasis di WhatsApp** (untuk sekarang).
