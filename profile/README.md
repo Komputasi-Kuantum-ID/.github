@@ -41,6 +41,11 @@ Belum formal, belum ada badan hukum — tapi semangatnya real.
 
 ---
 
+## 📅 Event Yang Ada
+Buka list event [di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
+
+---
+
 ## 💬 Cara Bergabung
 
 Komunitas ini **berbasis di WhatsApp** (untuk sekarang).
@@ -50,11 +55,12 @@ Komunitas ini **berbasis di WhatsApp** (untuk sekarang).
 
 Ga harus ngerti quantum dulu kok.
 Silakan join kalau lo:
-
 * 🔹 Lagi mendalami quantum
 * 🔹 Belum paham tapi pengen belajar
 * 🔹 Cuma pengen nongkrong & ngeramein
 * 🔹 Atau cuma penasaran isi grupnya apa 😄
+  
+Rekap Obrolan (Grub WA) Ter-update: [Klik di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/WHATSAPP_GROUP_LOG.md)
 
 ---
 
