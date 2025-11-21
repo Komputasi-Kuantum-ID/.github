@@ -14,10 +14,10 @@ Mungkin topiknya kedengeran aneh, tapi siapa tau lo juga penasaran atau pengen b
 
 ## 🗓️ Events
 
-Next Events: [Join group to know this](https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt)
-Past Events:
-- [What is Quantum Computing and What's not Quantum Computing](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Pengenalan.md)
-- [Inside the Quantum Machine: Qubits, Circuits, and Gates](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Circuit.md)
+Next Events: [Join group to know this](https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt) \
+Past Events: \
+(2025/11/10) [What is Quantum Computing and What's not Quantum Computing](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Pengenalan.md) \
+(2025/11/19) [Inside the Quantum Machine: Qubits, Circuits, and Gates](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Circuit.md) \
 All events: [Klik di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
 
 ---
