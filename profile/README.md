@@ -15,7 +15,9 @@ Mungkin topiknya kedengeran aneh, tapi siapa tau lo juga penasaran atau pengen b
 ## 🗓️ Events
 
 Next Events: [Join group to know this](https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt)
-Past Events: [What is Quantum Computing and What's not Quantum Computing](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10%20-%20Sharing%201%20-%20Pengenalan%20Quantum%20Computing.md)
+Past Events:
+- [What is Quantum Computing and What's not Quantum Computing](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Pengenalan.md)
+- [Inside the Quantum Machine: Qubits, Circuits, and Gates](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Circuit.md)
 All events: [Klik di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
 
 ---
@@ -67,7 +69,7 @@ Rekap Obrolan (Grub WA) Ter-update: [Klik di sini](https://github.com/Komputasi-
 ## 🧭 Catatan Penting
 
 * Komunitas ini **non-formal**
-* Fokusnya dari **sisi IT dan komputer**, bukan murni fisika
+* Fokusnya dari **sisi IT dan komputer**, bukan fisika
 * Gw juga masih belajar — jadi ini tempat **belajar bareng**, bukan kuliah resmi
 
 ---
@@ -88,11 +90,3 @@ Lihat pengumuman dan latar belakang komunitas di sini:
 ---
 
 ✨ *“Quantum computing itu bukan cuma masa depan — tapi ruang belajar yang seru buat sekarang.”*
-
----
-
-Apakah kamu mau saya tambahkan juga **bagian “Repositori Kami”** (misalnya `update`, `learn`, `projects`) biar bisa langsung jadi template awal organisasi GitHub kamu?
-
----
-
-Disclaimer: readme ini digenerate chatgpt. wkwkwkwkwk
