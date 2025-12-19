@@ -14,11 +14,12 @@ Mungkin topiknya kedengeran aneh, tapi siapa tau lo juga penasaran atau pengen b
 
 ## 🗓️ Events
 
-Next Events: [Join group to know this](https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt) \
+Next Events: [Join group to know this](https://bit.ly/wakokid) \
 Past Events: \
 (2025/11/10) [What is Quantum Computing and What's not Quantum Computing](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_10-Pengenalan.md) \
 (2025/11/19) [Inside the Quantum Machine: Qubits, Circuits, and Gates](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_11_19-Circuit.md) \
 (2025/12/03) [Sharing Riset dan Publikasi Teleportasi Kuantum](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_12_03-Research.md) \
+(2025/12/15) [Learning Quantum Computing from IT Perspective](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_12_15-Learning.md) \
 All events: [Klik di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
 
 ---
@@ -51,10 +52,11 @@ Buka list event [di sini](https://github.com/Komputasi-Kuantum-ID/community-upda
 
 ## 💬 Cara Bergabung
 
-Komunitas ini **berbasis di WhatsApp** (untuk sekarang).
+Komunitas ini **berbasis di WhatsApp**.
 
 👉 **Join di sini:**
-[https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt](https://chat.whatsapp.com/IuqXxdZu1OD3nEoP1kND3m?mode=wwt)
+[bit.ly/wakokid](https://bit.ly/wakokid)
+* dipersilahkan masuk ke grup-grup yang ada
 
 Ga harus ngerti quantum dulu kok.
 Silakan join kalau lo:
