@@ -27,6 +27,7 @@ Past Events: \
 (2025/12/03) [Sharing Riset dan Publikasi Teleportasi Kuantum](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_12_03-Research.md) \
 (2025/12/15) [Learning Quantum Computing from IT Perspective](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2025_12_15-Learning.md) \
 (2025/12/15) [Mengapa Informasi Kuantum Membutuhkan Error Correction? Dari Bit, Qubit, hingga Qudit](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2026_01_06-ErrorCorrection.md) \
+(2025/12/15) [Bedah Quantum Algo Secara Sederhana](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/events_log/2026_01_19-QuantumAlgos.md) \
 All events: [Klik di sini](https://github.com/Komputasi-Kuantum-ID/community-updates/blob/main/EVENTS_LOG.md)
 
 ---
@@ -62,7 +63,7 @@ Buka list event [di sini](https://github.com/Komputasi-Kuantum-ID/community-upda
 Komunitas ini **berbasis di WhatsApp**.
 
 👉 **Join di sini:**
-[bit.ly/wakokid](https://bit.ly/wakokid)
+[quacompute.id/join](https://quacompute.id/join)
 * dipersilahkan masuk ke grup-grup yang ada
 
 Ga harus ngerti quantum dulu kok.
